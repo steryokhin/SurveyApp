@@ -1,0 +1,17 @@
+# Xcode
+*.pbxuser
+*.mode1v3
+*.mode2v3
+*.perspectivev3
+*.xcuserstate
+*.xcbkptlist
+project.xcworkspace/
+
+# Swift Package Manager
+.build/
+
+# Other files and folders
+.DS_Store
+*.swp
+*.lock
+

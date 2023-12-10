@@ -1,13 +1,13 @@
 //
-//  PollingAppUITestsLaunchTests.swift
-//  PollingAppUITests
+//  SurveyAppUITestsLaunchTests.swift
+//  SurveyAppUITests
 //
 //  Created by Sergey Teryokhin on 09/12/2023.
 //
 
 import XCTest
 
-final class PollingAppUITestsLaunchTests: XCTestCase {
+final class SurveyAppUITestsLaunchTests: XCTestCase {
 
     override class var runsForEachTargetApplicationUIConfiguration: Bool {
         true
